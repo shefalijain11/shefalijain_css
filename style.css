@@ -1,0 +1,184 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+
+.top-container{
+    background-color:#E5FBB8;
+    position: relative;
+    padding-top:100px;
+    
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-size: 500%;
+    color: #66BFBF;
+    line-height: 2;
+    
+}
+
+.programmer{
+    font-size: 2rem;
+    color:#66BFBF ;
+    font-weight:normal;
+}
+
+h3{
+    color: #11999E;
+}
+
+h2{
+    color: #11999E;
+    font-size: 2rem;
+    font-weight:lighter;
+}
+
+.about-me{
+    color: rgba(0,0,0,0.7);
+    width:25%;
+    margin:0 auto;
+    line-height: 2;
+}
+
+
+
+.pro{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position:absolute;
+    left:300px;
+    bottom:280px;
+}
+
+.top-cloud{
+    position:absolute;
+    top:50px;
+    right:250px;
+}
+
+.footer-link{
+    color: #11999E;
+    margin-right: 40px;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.footer-link:hover{
+    color: white;
+}
+
+.myimage{
+    margin-top: 100px;
+}
+
+.skill-row{
+    width: 50%;
+    margin:100px auto;
+    line-height:2;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.17rem;
+    font-weight: normal;
+}
+
+.skill-img1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border: 2px solid #11999E;
+    border-radius: 100%;
+    padding:3px;
+}
+
+.skill-img2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    border: 2px solid #11999E;
+    border-radius: 100%;
+}
+
+hr{
+    color:rgb(156, 156, 156,0.2);
+    width: 4%;
+    height: 0px;
+    border-width: 6px;
+    border-style:dotted none none;
+    margin:100px auto;
+    margin-bottom: 120px;
+    
+}
+
+.skill-desc1{
+    font-size: 0.9rem;
+    color: rgba(0,0,0,0.7);
+    
+}
+
+.skill-desc2{
+    font-size: 0.9rem;
+    color: rgba(0,0,0,0.7);
+    
+}
+ 
+
+.touch{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;    
+
+}
+
+.connect{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+.p{
+    color: rgba(0,0,0,0.7);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    font-weight: normal;
+    padding-bottom: 30px;
+    padding-top:20px ;
+}
+
+.contact-me{
+    padding-bottom: 100px;
+}
+
+.btn{
+    transition-duration: 0.4s;
+    background-color: #00abe4;
+    color: white;
+    padding: 10px;
+    border: 2px solid ;
+    border-radius: 8px;
+}
+
+.btn:hover {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border: 2px solid #00abe4;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 30px;
+}
+
+.foot{
+    color: white;
+}
